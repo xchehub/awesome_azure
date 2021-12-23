@@ -1,5 +1,5 @@
 # awesome_azure
-It's to learn azure.
+My journey about learning azure.
 # AZ-900
 ## Udemy
 [AZ-900: Microsoft Azure Fundamentals Exam Prep - OCT 2021](https://www.udemy.com/course/az900-azure/)
