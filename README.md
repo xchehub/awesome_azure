@@ -6,3 +6,4 @@ My journey about learning azure.
 ### supplementary material
 - [AZ-900 Study Resources](https://softwarearchitect.ca/az-900-study-resources/)
 - [MS Exam: AZ-900](https://getcloudskills.com/ms-exam-az-900/)
+- [Become Microsoft Certified](https://aka.ms/traincertposter)
